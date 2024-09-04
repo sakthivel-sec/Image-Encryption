@@ -10,7 +10,7 @@ This Python program implements a simple image encryption and decryption tool usi
 ## Usage
 
 1. Clone the repository
-   git clone https://github.com/your-username/Image-Encryption.git
+   git clone https://github.com/sakthivel-sec/Image-Encryption.git
 2. Navigate to the project directory
    cd Image-Encryption
 3. Install required dependencies
